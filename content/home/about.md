@@ -38,4 +38,4 @@ weight = 1
 
 ---
 
-Hi, I am a Ph.D. candidate in Accounting at Michigan State University and on the 2017-2018 accounting job market. I will be at the 2017 Accounting PhD Rookie Recruiting and Research Camp for interview.
+Hi, I am a Ph.D. candidate in Accounting at Michigan State University and on the 2017-2018 accounting job market. I will be at the 2017 Accounting Ph.D. Rookie Recruiting and Research Camp for interviews.
